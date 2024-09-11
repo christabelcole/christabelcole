@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  "Code is like humor. When you have to explain it, it’s bad." – Cory House
+  "Code is like humor. When you have to explain it, it’s bad."
 </p>
 
 <h2 align="center">Connect with Me:</h2>
