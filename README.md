@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Christabel Cole 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Email-ChristabelCole1@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email" />
+<!--   <img src="https://img.shields.io/badge/Email-ChristabelCole1@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email" /> -->
   <img src="https://img.shields.io/badge/Pronouns-She%2FHer-pink?style=for-the-badge" alt="Pronouns" />
 </p>
 
